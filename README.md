@@ -1,6 +1,6 @@
 # GWC-SIP-2022
 
-Direct links to the website (on repl.it)-
+Direct links to the website (on replit)
 
 https://replit.com/@ivinawashere/Personal-Website#index.html
 
