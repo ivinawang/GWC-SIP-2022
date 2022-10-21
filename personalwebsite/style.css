@@ -1,0 +1,103 @@
+/* STYLE SECTIONING TAGS */
+body {
+    background-color: #f5fff7; 
+   }
+   
+   /* STYLE TEXT */
+   
+   h1 {
+       color: #333;
+       font-family: 'Noto Serif', serif;
+       text-align: center;
+       font-size: 40px;
+   }
+   
+   h2 {
+     color: #333;
+     font-family: 'Noto Serif', serif;
+     margin-left: auto;
+     margin-right: auto;
+     max-width: 50%;
+     font-size: 25px;
+   }
+   
+   #introc {
+     margin-left: auto;
+     margin-right: auto;
+     max-width: 50%;
+   }
+   
+   #warning {
+     margin-left: auto;
+     margin-right: auto;
+     max-width: 50%;
+     color: #b60707
+   }
+   
+   p {
+     font-family: 'Noto Serif', serif;
+     font-size: 20px;
+     margin-left: auto;
+     margin-right: auto;
+     max-width: 42%;
+   }
+   
+   .des {
+     padding-bottom: 50px;
+   }
+   
+   /* STYLE IMAGES */
+   img {
+     border-radius: 10px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     max-width: 36%;
+     border: 1px solid #333;
+   }
+   
+   #photo {
+     max-width: 30%;
+   }
+   
+   #intro {
+     max-width: 36%;
+   }
+   
+   
+   video{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     border: 1px solid #333;
+     margin-bottom: 80px;
+   }
+   
+   
+   /* STYLE NAV BAR */
+   ul {
+     list-style-type: none;
+     overflow: hidden;
+     background-color: #333;
+   }
+   
+   li {
+     float: left;
+   }
+   
+   li a {
+     display: block;
+     color: white;
+     font-size: 18px;
+     font-weight: bolder;
+     text-align: center;
+     padding: 18px 30px;
+     text-decoration: none;
+     font-family: 'Noto Serif', serif;
+   }
+   
+   /* Change the link color to #111 (black) on hover */
+   li a:hover {
+     background-color: #111;
+   }
